@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="first_number">ENTER FIRST NUMBER :</string>
+    <string name="second_number">ENTER SECOND NUMBER :</string>
+    <string name="hint">enter value</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="multiple">*</string>
+    <string name="division">/</string>
+    <string name="solution">SOLUTION :</string>
+    <string name="answer">answer</string>
+    <string name="reset">RESET</string>
+    <string name="credit">By - Santhosh S 200701221</string>
+</resources>
